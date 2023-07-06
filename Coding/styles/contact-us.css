@@ -1,0 +1,177 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.contact-us-jKw {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.contact-us-jKw .auto-group-lxdb-rvM {
+  width: 100%;
+  height: 11.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #ffffff;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.contact-us-jKw .auto-group-7xyp-McD {
+  width: 100%;
+  height: 190.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.contact-us-jKw .auto-group-7xyp-McD .auto-group-xfzh-hg5 {
+  width: 118.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 6rem;
+  display: flex;
+  align-items: center;
+}
+.contact-us-jKw .auto-group-7xyp-McD .auto-group-xfzh-hg5 .profile-2TT {
+  margin-right: 29.8rem;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #8e8e8e;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-jKw .auto-group-7xyp-McD .auto-group-xfzh-hg5 .calender-event-ZTP {
+  margin-right: 20.8rem;
+  cursor: pointer;
+  font-size: 3.5rem;
+  text-decoration: none;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #8e8e8e;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-jKw .auto-group-7xyp-McD .auto-group-xfzh-hg5 .contact-us-6CR {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-jKw .auto-group-7xyp-McD .q-all-about-spirited-away--37f {
+  width: 61.1rem;
+  height: 6rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 33.3rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-jKw .auto-group-7xyp-McD .a-we-are-animal-rescue-comunity-started-3-years-ago-to-helping-all-the-animal-homeless-in-indonesia-we-working-together-across-indonesia-the-animal-are-connected-with-animal-hospital-and-loving-new-family-9Ah {
+  width: 118rem;
+  height: 41.8rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 44rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif, 'Source Sans Pro';
+}
+.contact-us-jKw .auto-group-7xyp-McD .faq-vqf {
+  width: 11.5rem;
+  height: 8rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 19.8rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-jKw .auto-group-7xyp-McD .q-how-can-i-become-a-sponsorship-eWm {
+  width: 78.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 102.8rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-jKw .auto-group-7xyp-McD .a-you-can-email-us-in-spiritedawaygroupgmailcom-we-are-very-happy-and-looking-forward-to-having-you-join-us-x1f {
+  width: 116.6rem;
+  height: 17.9rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 113.5rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif, 'Source Sans Pro';
+}
+.contact-us-jKw .auto-group-7xyp-McD .q-where-i-can-see-this-comunity-activities-d7o {
+  width: 94.2rem;
+  height: 6rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 141.3rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-jKw .auto-group-7xyp-McD .a-you-also-can-follow-our-social-medias-in-our-website-footer-7of {
+  width: 133.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 154.6rem;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.325;
+  color: #000000;
+  font-family: PT Serif, 'Source Sans Pro';
+  white-space: nowrap;
+}
